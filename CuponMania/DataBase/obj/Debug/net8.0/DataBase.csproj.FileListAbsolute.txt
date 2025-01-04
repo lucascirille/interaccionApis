@@ -1,0 +1,11 @@
+D:\materia\Desarrollo\git\Compartido\apis\interaccionApis\CuponMania\DataBase\bin\Debug\net8.0\DataBase.deps.json
+D:\materia\Desarrollo\git\Compartido\apis\interaccionApis\CuponMania\DataBase\bin\Debug\net8.0\DataBase.dll
+D:\materia\Desarrollo\git\Compartido\apis\interaccionApis\CuponMania\DataBase\bin\Debug\net8.0\DataBase.pdb
+D:\materia\Desarrollo\git\Compartido\apis\interaccionApis\CuponMania\DataBase\obj\Debug\net8.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\materia\Desarrollo\git\Compartido\apis\interaccionApis\CuponMania\DataBase\obj\Debug\net8.0\DataBase.AssemblyInfoInputs.cache
+D:\materia\Desarrollo\git\Compartido\apis\interaccionApis\CuponMania\DataBase\obj\Debug\net8.0\DataBase.AssemblyInfo.cs
+D:\materia\Desarrollo\git\Compartido\apis\interaccionApis\CuponMania\DataBase\obj\Debug\net8.0\DataBase.csproj.CoreCompileInputs.cache
+D:\materia\Desarrollo\git\Compartido\apis\interaccionApis\CuponMania\DataBase\obj\Debug\net8.0\DataBase.dll
+D:\materia\Desarrollo\git\Compartido\apis\interaccionApis\CuponMania\DataBase\obj\Debug\net8.0\refint\DataBase.dll
+D:\materia\Desarrollo\git\Compartido\apis\interaccionApis\CuponMania\DataBase\obj\Debug\net8.0\DataBase.pdb
+D:\materia\Desarrollo\git\Compartido\apis\interaccionApis\CuponMania\DataBase\obj\Debug\net8.0\ref\DataBase.dll
