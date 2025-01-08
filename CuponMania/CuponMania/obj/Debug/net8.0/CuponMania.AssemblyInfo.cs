@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CuponMania")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33f4044c4b0cb0730c45a23c97f49792ced13c7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CuponMania")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CuponMania")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
