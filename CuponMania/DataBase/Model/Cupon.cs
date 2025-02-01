@@ -1,4 +1,5 @@
 ﻿namespace DataBase.Model
+
 {
     public class Cupon
     {

@@ -10,6 +10,7 @@
         "dependencies": {
           "CORE": "1.0.0",
           "DataBase": "1.0.0",
+          "Servicios": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
@@ -65,12 +66,30 @@
       },
       "CORE/1.0.0": {
         "runtime": {
-          "CORE.dll": {}
+          "CORE.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DataBase/1.0.0": {
         "runtime": {
-          "DataBase.dll": {}
+          "DataBase.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Servicios/1.0.0": {
+        "dependencies": {
+          "CORE": "1.0.0",
+          "DataBase": "1.0.0"
+        },
+        "runtime": {
+          "Servicios.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -129,6 +148,11 @@
       "sha512": ""
     },
     "DataBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Servicios/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

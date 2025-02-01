@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "cMdQUM6GE9qjH6DK1kx0WkXWqxSSKj7v4aQQezyiIdk=",
+  "Hash": "fkb9xzY6J3BxagBNz2M0b7uaz9wwdJQ7EE2xInnk0oI=",
   "Source": "CuponMania",
   "BasePath": "_content/CuponMania",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

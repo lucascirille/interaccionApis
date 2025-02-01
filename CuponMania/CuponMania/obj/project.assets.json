@@ -108,6 +108,20 @@
         "runtime": {
           "bin/placeholder/DataBase.dll": {}
         }
+      },
+      "Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CORE": "1.0.0",
+          "DataBase": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Servicios.dll": {}
+        }
       }
     }
   },
@@ -450,29 +464,40 @@
       "type": "project",
       "path": "../DataBase/DataBase.csproj",
       "msbuildProject": "../DataBase/DataBase.csproj"
+    },
+    "Servicios/1.0.0": {
+      "type": "project",
+      "path": "../Servicios/Servicios.csproj",
+      "msbuildProject": "../Servicios/Servicios.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "CORE >= 1.0.0",
       "DataBase >= 1.0.0",
+      "Servicios >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mili\\.nuget\\packages\\": {}
+    "C:\\Users\\Cesar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\CuponMania\\CuponMania\\CuponMania.csproj",
+      "projectUniqueName": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\CuponMania\\CuponMania\\CuponMania.csproj",
       "projectName": "CuponMania",
-      "projectPath": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\CuponMania\\CuponMania\\CuponMania.csproj",
-      "packagesPath": "C:\\Users\\mili\\.nuget\\packages\\",
-      "outputPath": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\CuponMania\\CuponMania\\obj\\",
+      "projectPath": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\CuponMania\\CuponMania\\CuponMania.csproj",
+      "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
+      "outputPath": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\CuponMania\\CuponMania\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\mili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -480,18 +505,20 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\CuponMania\\CORE\\CORE.csproj": {
-              "projectPath": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\CuponMania\\CORE\\CORE.csproj"
+            "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\CuponMania\\CORE\\CORE.csproj": {
+              "projectPath": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\CuponMania\\CORE\\CORE.csproj"
             },
-            "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\CuponMania\\DataBase\\DataBase.csproj": {
-              "projectPath": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\CuponMania\\DataBase\\DataBase.csproj"
+            "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\CuponMania\\DataBase\\DataBase.csproj": {
+              "projectPath": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\CuponMania\\DataBase\\DataBase.csproj"
+            },
+            "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\CuponMania\\Servicios\\Servicios.csproj": {
+              "projectPath": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\CuponMania\\Servicios\\Servicios.csproj"
             }
           }
         }
@@ -505,7 +532,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -535,7 +563,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
