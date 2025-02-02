@@ -85,5 +85,25 @@ namespace Servicios.Servicios
                 return respuesta;
             }
         }
+
+        public RespuestaPrivada<ICollection<Trabajador>> GetTrabajadoresPorProfesion(string profecion)
+        {
+            var respuesta = new RespuestaPrivada<ICollection<Trabajador>>();
+            respuesta.Datos = null;
+            respuesta.Exito = true;
+            var TrabajadoresBD = _trabajadoresBaseDeDatos.Where(x => x.Profesion == profecion).ToList();
+            if (TrabajadoresBD.Count() != 0)
+            {
+                respuesta.Datos = TrabajadoresBD;
+                respuesta.Mensaje = "Trabajadores obtenidos correctamente";
+                return respuesta;
+            }
+            else
+            {
+                respuesta.Mensaje = "No se encontraron trabajadores";
+                return respuesta;
+            }
+
+        }
     }
 }

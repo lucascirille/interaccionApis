@@ -15,7 +15,8 @@
             "name": "codigo",
             "in": "query",
             "schema": {
-              "type": "string"
+              "type": "string",
+              "default": ""
             }
           }
         ],

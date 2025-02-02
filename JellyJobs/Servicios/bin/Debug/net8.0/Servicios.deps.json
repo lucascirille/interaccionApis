@@ -17,12 +17,18 @@
       },
       "CORE/1.0.0": {
         "runtime": {
-          "CORE.dll": {}
+          "CORE.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DataBase/1.0.0": {
         "runtime": {
-          "DataBase.dll": {}
+          "DataBase.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

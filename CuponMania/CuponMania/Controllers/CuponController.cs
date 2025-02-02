@@ -22,12 +22,12 @@ namespace CuponMania.Controllers
         }
 
         [HttpGet("obtenerCupon")]
-        public ActionResult<RespuestaPrivada<Cupon>> obtenerCupon(string codigo)
+        public ActionResult<RespuestaPrivada<Cupon>> obtenerCupon(string codigo = "")
         {
            var respuesta = _cuponService.obtenerCupon(codigo);
             if (respuesta.Datos == null)
             {
-                return BadRequest(respuesta);
+                return NotFound(respuesta);
             }
             else
             {

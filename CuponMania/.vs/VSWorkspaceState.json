@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\CuponMania",
     "\\DataBase"
   ],
-  "SelectedNode": "\\DataBase\\DataBase.csproj",
+  "SelectedNode": "\\CuponMania\\CuponMania.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -21,3 +21,15 @@ D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania\CORE\obj\Debug\
 D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania\CORE\obj\Debug\net8.0\refint\CORE.dll
 D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania\CORE\obj\Debug\net8.0\CORE.pdb
 D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania\CORE\obj\Debug\net8.0\ref\CORE.dll
+D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania2\CORE\bin\Debug\net8.0\CORE.deps.json
+D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania2\CORE\bin\Debug\net8.0\CORE.dll
+D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania2\CORE\bin\Debug\net8.0\CORE.pdb
+D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania2\CORE\obj\Debug\net8.0\CORE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania2\CORE\obj\Debug\net8.0\CORE.AssemblyInfoInputs.cache
+D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania2\CORE\obj\Debug\net8.0\CORE.AssemblyInfo.cs
+D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania2\CORE\obj\Debug\net8.0\CORE.csproj.CoreCompileInputs.cache
+D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania2\CORE\obj\Debug\net8.0\CORE.sourcelink.json
+D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania2\CORE\obj\Debug\net8.0\CORE.dll
+D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania2\CORE\obj\Debug\net8.0\refint\CORE.dll
+D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania2\CORE\obj\Debug\net8.0\CORE.pdb
+D:\Materias\Desarrollo\Compartido\git\interaccionApis\CuponMania2\CORE\obj\Debug\net8.0\ref\CORE.dll

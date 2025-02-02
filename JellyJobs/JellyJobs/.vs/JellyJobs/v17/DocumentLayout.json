@@ -1,23 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\JellyJobs\\",
+  "WorkspaceRootPath": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\JellyJobs\\JellyJobs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24F7BABD-09BD-4E08-BAEF-50AEDA28940D}|JellyJobs.csproj|d:\\materia\\desarrollo\\git\\compartido\\apis\\interaccionapis\\jellyjobs\\jellyjobs\\controllers\\trabajadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24F7BABD-09BD-4E08-BAEF-50AEDA28940D}|JellyJobs.csproj|solutionrelative:controllers\\trabajadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAE0B388-6541-42D4-98E3-FC9A523E7E57}|..\\Servicios\\Servicios.csproj|d:\\materias\\desarrollo\\compartido\\git\\interaccionapis\\jellyjobs\\servicios\\servicios\\trabajadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24F7BABD-09BD-4E08-BAEF-50AEDA28940D}|JellyJobs.csproj|d:\\materia\\desarrollo\\git\\compartido\\apis\\interaccionapis\\jellyjobs\\jellyjobs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FAE0B388-6541-42D4-98E3-FC9A523E7E57}|..\\Servicios\\Servicios.csproj|d:\\materias\\desarrollo\\compartido\\git\\interaccionapis\\jellyjobs\\servicios\\interfaces\\itrabajadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F7BABD-09BD-4E08-BAEF-50AEDA28940D}|JellyJobs.csproj|d:\\materias\\desarrollo\\compartido\\git\\interaccionapis\\jellyjobs\\jellyjobs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24F7BABD-09BD-4E08-BAEF-50AEDA28940D}|JellyJobs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAE0B388-6541-42D4-98E3-FC9A523E7E57}|..\\Servicios\\Servicios.csproj|d:\\materia\\desarrollo\\git\\compartido\\apis\\interaccionapis\\jellyjobs\\servicios\\servicios\\trabajadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24F7BABD-09BD-4E08-BAEF-50AEDA28940D}|JellyJobs.csproj|d:\\materias\\desarrollo\\compartido\\git\\interaccionapis\\jellyjobs\\jellyjobs\\controllers\\trabajadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F7BABD-09BD-4E08-BAEF-50AEDA28940D}|JellyJobs.csproj|solutionrelative:controllers\\trabajadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAE0B388-6541-42D4-98E3-FC9A523E7E57}|..\\Servicios\\Servicios.csproj|d:\\materia\\desarrollo\\git\\compartido\\apis\\interaccionapis\\jellyjobs\\servicios\\interfaces\\itrabajadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\Servicios\\Interfaces\\ITrabajadorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AD28885-3B39-4682-A840-B2A714D974B9}|..\\CORE\\CORE.csproj|d:\\materia\\desarrollo\\git\\compartido\\apis\\interaccionapis\\jellyjobs\\core\\dtos\\respuestaprivada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\Servicios\\Servicios\\TrabajadorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\CORE\\DTOs\\RespuestaPrivada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +36,91 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\JellyJobs\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\JellyJobs\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T14:06:58.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TrabajadorController.cs",
-              "DocumentMoniker": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\JellyJobs\\Controllers\\TrabajadorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TrabajadorController.cs",
-              "ToolTip": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\JellyJobs\\Controllers\\TrabajadorController.cs",
-              "RelativeToolTip": "Controllers\\TrabajadorController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAgwB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T13:53:14.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ITrabajadorService.cs",
-              "DocumentMoniker": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\Servicios\\Interfaces\\ITrabajadorService.cs",
+              "DocumentMoniker": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\JellyJobs\\Servicios\\Interfaces\\ITrabajadorService.cs",
               "RelativeDocumentMoniker": "..\\Servicios\\Interfaces\\ITrabajadorService.cs",
-              "ToolTip": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\Servicios\\Interfaces\\ITrabajadorService.cs",
+              "ToolTip": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\JellyJobs\\Servicios\\Interfaces\\ITrabajadorService.cs",
               "RelativeToolTip": "..\\Servicios\\Interfaces\\ITrabajadorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T13:33:55.074Z",
+              "WhenOpened": "2025-02-02T02:24:44.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TrabajadorService.cs",
-              "DocumentMoniker": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\Servicios\\Servicios\\TrabajadorService.cs",
-              "RelativeDocumentMoniker": "..\\Servicios\\Servicios\\TrabajadorService.cs",
-              "ToolTip": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\Servicios\\Servicios\\TrabajadorService.cs",
-              "RelativeToolTip": "..\\Servicios\\Servicios\\TrabajadorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\JellyJobs\\JellyJobs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\JellyJobs\\JellyJobs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T15:06:39.689Z",
+              "WhenOpened": "2025-02-02T02:03:25.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrabajadorService.cs",
+              "DocumentMoniker": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\JellyJobs\\Servicios\\Servicios\\TrabajadorService.cs",
+              "RelativeDocumentMoniker": "..\\Servicios\\Servicios\\TrabajadorService.cs",
+              "ToolTip": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\JellyJobs\\Servicios\\Servicios\\TrabajadorService.cs",
+              "RelativeToolTip": "..\\Servicios\\Servicios\\TrabajadorService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAkwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:51:00.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrabajadorController.cs",
+              "DocumentMoniker": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\JellyJobs\\JellyJobs\\Controllers\\TrabajadorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrabajadorController.cs",
+              "ToolTip": "D:\\Materias\\Desarrollo\\Compartido\\git\\interaccionApis\\JellyJobs\\JellyJobs\\Controllers\\TrabajadorController.cs",
+              "RelativeToolTip": "Controllers\\TrabajadorController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:53:14.638Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ITrabajadorService.cs",
+              "DocumentMoniker": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\Servicios\\Interfaces\\ITrabajadorService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\Servicios\\Interfaces\\ITrabajadorService.cs",
+              "ToolTip": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\Servicios\\Interfaces\\ITrabajadorService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\Servicios\\Interfaces\\ITrabajadorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:33:55.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrabajadorService.cs",
+              "DocumentMoniker": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\Servicios\\Servicios\\TrabajadorService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\Servicios\\Servicios\\TrabajadorService.cs",
+              "ToolTip": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\Servicios\\Servicios\\TrabajadorService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\Servicios\\Servicios\\TrabajadorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:06:39.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RespuestaPrivada.cs",
               "DocumentMoniker": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\CORE\\DTOs\\RespuestaPrivada.cs",
-              "RelativeDocumentMoniker": "..\\CORE\\DTOs\\RespuestaPrivada.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\CORE\\DTOs\\RespuestaPrivada.cs",
               "ToolTip": "D:\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\CORE\\DTOs\\RespuestaPrivada.cs",
-              "RelativeToolTip": "..\\CORE\\DTOs\\RespuestaPrivada.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\materia\\Desarrollo\\git\\Compartido\\apis\\interaccionApis\\JellyJobs\\CORE\\DTOs\\RespuestaPrivada.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T14:14:54.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T14:14:54.534Z"
             }
           ]
         }

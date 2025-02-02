@@ -29,5 +29,21 @@ public class TrabajadorController : ControllerBase
             return Ok(respuesta);
         }
     }
+
+    [HttpGet("obtenerTrabajadoresPorProfesion")]
+
+    public ActionResult<RespuestaPrivada<ICollection<Trabajador>>> GetTrabajadoresPorProfesion(string profesion = "")
+    {
+        var respuesta = _trabajadorService.GetTrabajadoresPorProfesion(profesion);
+        if (respuesta.Datos == null)
+        {
+            return BadRequest(respuesta);
+        }
+        else
+        {
+            return Ok(respuesta);
+        }
+    }
 }
+
 
